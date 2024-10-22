@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.MD": "markdown",
+        "*.cpp": "cpp",
+        "stat.h": "c",
+        "ls_utils.h": "c"
+    }
+}
